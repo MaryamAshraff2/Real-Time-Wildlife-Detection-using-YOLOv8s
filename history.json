@@ -1,0 +1,9286 @@
+[
+  {
+    "timestamp": "2025-05-11 14:56:23",
+    "filename": "bear.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 96.2
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:56:39",
+    "filename": "bearvid.mp4",
+    "type": "video",
+    "prediction": {
+      "status": "video processing started"
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:18",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8551293015480042
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:18",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6549146771430969
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.6076880693435669
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5926160216331482
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:21",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9591346383094788
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:21",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.94319748878479
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:21",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.7417771816253662
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.935081958770752
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9081630110740662
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.6540058255195618
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9753358364105225
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8388062715530396
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.7507229447364807
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9772855639457703
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.8898032903671265
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8817676305770874
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:57:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8782529234886169
+    }
+  },
+  {
+    "timestamp": "2025-05-11 14:58:00",
+    "filename": "0abe5e4f09bc1262_jpg.rf.9375b651ed640b08de1574cef5a2a373.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 90.9
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:05:59",
+    "filename": "bear.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 96.2
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:08",
+    "filename": "bearvid.mp4",
+    "type": "video",
+    "prediction": {
+      "status": "video processing started"
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9246744513511658
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6755840182304382
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9068939685821533
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8195939660072327
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9093421697616577
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8647902607917786
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9163302183151245
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7047037482261658
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8796335458755493
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.969971776008606
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.914379894733429
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6072985529899597
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9783219695091248
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.826526403427124
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.783885657787323
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9667296409606934
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7777706980705261
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.5606951117515564
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9774061441421509
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.8522149324417114
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.567417323589325
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5020009875297546
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.688091516494751
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5410680770874023
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8865771889686584
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.950391948223114
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:06:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8179977536201477
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9640418291091919
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7377853989601135
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9269257187843323
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8608450889587402
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9496975541114807
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8172479271888733
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:06",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9531201720237732
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:06",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7799142599105835
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9574787020683289
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8122930526733398
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9672626852989197
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5763213634490967
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5221405625343323
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9344431161880493
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7837405800819397
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9641261696815491
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6222620010375977
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5077053308486938
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:17",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9385722875595093
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:17",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7021699547767639
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9691162109375
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8288683891296387
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "horse",
+      "confidence": 0.5907413959503174
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:21",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8823769688606262
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:21",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8090810179710388
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:21",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5497834086418152
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9729991555213928
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7089976072311401
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.975684642791748
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7928421497344971
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:27",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.969126284122467
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:27",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8919010162353516
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9691237211227417
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9117283225059509
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9574407935142517
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8747740983963013
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9545295238494873
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.874616801738739
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8786934018135071
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8131515383720398
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8905487656593323
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6337847113609314
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9402869939804077
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9235295057296753
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7660623788833618
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7416203618049622
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6963891983032227
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7536795139312744
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5765922665596008
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7471169829368591
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6059006452560425
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:07:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6638363003730774
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7271799445152283
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7410014271736145
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7996199131011963
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7019119262695312
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7555623650550842
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7392833828926086
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7415791153907776
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7862219214439392
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.615574061870575
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.742628276348114
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7097648978233337
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.894512414932251
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:06",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8636192679405212
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:06",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8743756413459778
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7562296390533447
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7453566789627075
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.662003219127655
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5741845965385437
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7097175121307373
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7824442982673645
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6159783601760864
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5072896480560303
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5772159695625305
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6348824501037598
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:18",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6836212873458862
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.597942590713501
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5717762112617493
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5926176309585571
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.533269464969635
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:35",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.705009937286377
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6580305099487305
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8810380101203918
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.635118305683136
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5044434070587158
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7281903624534607
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8311172127723694
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7128057479858398
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5503506660461426
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5649086833000183
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6395534873008728
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6456394791603088
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6857517957687378
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:52",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7696570754051208
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7909495234489441
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.8003955483436584
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7547081708908081
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7814092040061951
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7361971139907837
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5321125984191895
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7163916826248169
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:08:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7711847424507141
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:09:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7599900960922241
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:10:15",
+    "filename": "bear.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 96.2
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:10:27",
+    "filename": "elephant.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "elephant",
+      "confidence": 97.4
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:10:37",
+    "filename": "zebra.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "zebra",
+      "confidence": 97.0
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:10:53",
+    "filename": "bearvid.mp4",
+    "type": "video",
+    "prediction": {
+      "status": "video processing started"
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8692795038223267
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8679426312446594
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9095058441162109
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8758623003959656
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.603736937046051
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9570755362510681
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8508250117301941
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.7539259791374207
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9760072827339172
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.945106565952301
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.8418386578559875
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9487087726593018
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8134384155273438
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9619689583778381
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9259136319160461
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9662812948226929
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9297237992286682
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9694711565971375
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9372938275337219
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.967340886592865
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9383533596992493
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9696971774101257
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9268396496772766
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:11:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "zebra",
+      "confidence": 0.5088731050491333
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:12:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9844502806663513
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:12:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7861021161079407
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:12:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.982319176197052
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:12:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7582361102104187
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:12:42",
+    "filename": "0abe5e4f09bc1262_jpg.rf.9375b651ed640b08de1574cef5a2a373.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 90.9
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:12:59",
+    "filename": "4bd38abc7c37051e_jpg.rf.148dbe674766581b8e1fa4c55da51edf.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 59.1
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:18",
+    "filename": "lionvid.mp4",
+    "type": "video",
+    "prediction": {
+      "status": "video processing started"
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.815732479095459
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8048667907714844
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7981000542640686
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8729941844940186
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8768597841262817
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5227487683296204
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8106820583343506
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8232429623603821
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8039395213127136
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7683548927307129
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.677135169506073
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7147818803787231
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.695101797580719
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6382730603218079
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7693182826042175
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6654390096664429
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:52",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8663254976272583
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6574180722236633
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7655712366104126
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.72786945104599
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6370292901992798
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:56",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5845919251441956
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:56",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5788818597793579
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.723861575126648
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6601620316505432
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5717211961746216
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8706421256065369
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:13:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7305325865745544
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7769054770469666
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.615177571773529
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7821169495582581
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5722388625144958
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7852476835250854
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7664932608604431
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8467402458190918
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.770182728767395
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7584906220436096
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7148674726486206
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7673478722572327
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8261380195617676
+    }
+  },
+  {
+    "timestamp": "2025-05-11 15:14:21",
+    "filename": "8e4ca713322023fb_jpg.rf.ed6eb4e62a701c257c390a97af70dcf0.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 92.9
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:42:39",
+    "filename": "bear.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 96.2
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:43:00",
+    "filename": "elephant.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "elephant",
+      "confidence": 97.4
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:43:11",
+    "filename": "elephant.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 75.7
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:43:30",
+    "filename": "9c9f2ddd776ff540_jpg.rf.f400336ca2f1ae54b2e67f2156aadc6d.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 84.6
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:43:54",
+    "filename": "58bfa6acf035a8ab_jpg.rf.3d4bf176bf8fe24b588698db4ab0049b.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 94.6
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:44:48",
+    "filename": "lionvid.mp4",
+    "type": "video",
+    "prediction": {
+      "status": "video processing started"
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:45:09",
+    "filename": "lionvid.mp4",
+    "type": "video",
+    "prediction": {
+      "status": "video processing started"
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:45:21",
+    "filename": "bearvid.mp4",
+    "type": "video",
+    "prediction": {
+      "status": "video processing started"
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:47:01",
+    "filename": "giraffe.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "giraffe",
+      "confidence": 97.4
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:18",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5744380950927734
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9299004673957825
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9181784987449646
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7689493894577026
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:21",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.7326987385749817
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:21",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6395996809005737
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7595177888870239
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6831907629966736
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9629045724868774
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9041221737861633
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7681201696395874
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9781147837638855
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8941156268119812
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.941315770149231
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8377102017402649
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9063188433647156
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7991350293159485
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9652268290519714
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:35",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9632565379142761
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8163529634475708
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8771764039993286
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5370122194290161
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8373327255249023
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.5258554220199585
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.6138518452644348
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9775575399398804
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.7974500060081482
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6438931822776794
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9359549880027771
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.7927868962287903
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7024494409561157
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9678475856781006
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.8831386566162109
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6207675933837891
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9811966419219971
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9163895845413208
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8590524196624756
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.5297609567642212
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9811136722564697
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9298120141029358
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8147979378700256
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.5995697379112244
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9763145446777344
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.8910472989082336
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.810417890548706
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.6762775778770447
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9804814457893372
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.8841496109962463
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8432562947273254
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.6547964811325073
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9807320237159729
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9069934487342834
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7630884051322937
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.5927630662918091
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9818666577339172
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.8762313723564148
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8036695718765259
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.7227423191070557
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:56",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9792816638946533
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:56",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.917497992515564
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7931158542633057
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.7347937226295471
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.8181068897247314
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:52:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.6929832696914673
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.785918653011322
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.668130099773407
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.8665851354598999
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.6574589014053345
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5041105151176453
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.815491795539856
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:06",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9299558401107788
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9490838646888733
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "tv",
+      "confidence": 0.6331067085266113
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9416290521621704
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "tv",
+      "confidence": 0.594667911529541
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9329271912574768
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "tv",
+      "confidence": 0.6118338704109192
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.5284544229507446
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9384346008300781
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8844141364097595
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9526355862617493
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9381834864616394
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9398781657218933
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.7357965707778931
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9339443445205688
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:17",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9226897358894348
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:17",
+    "type": "webcam",
+    "prediction": {
+      "animal": "tv",
+      "confidence": 0.5694219470024109
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9241724610328674
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.5908204317092896
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.8929632902145386
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "tv",
+      "confidence": 0.5926640629768372
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9359331727027893
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8912495374679565
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9418928623199463
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "laptop",
+      "confidence": 0.6205695867538452
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9444421529769897
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "laptop",
+      "confidence": 0.6175553202629089
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9501590132713318
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:27",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8740377426147461
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:27",
+    "type": "webcam",
+    "prediction": {
+      "animal": "laptop",
+      "confidence": 0.5040287375450134
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9532493948936462
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9271358847618103
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "laptop",
+      "confidence": 0.6359679698944092
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.945015549659729
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9249586462974548
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.952341616153717
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9198060035705566
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9435859322547913
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8772502541542053
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7766426205635071
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7724336385726929
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7575785517692566
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6387165188789368
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8012084364891052
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6284359097480774
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6213175058364868
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8617664575576782
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7911204695701599
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7772971391677856
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7800027132034302
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7103890180587769
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8062195777893066
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8396512269973755
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5998449325561523
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7676131725311279
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7824320197105408
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8162656426429749
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8063175082206726
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6226528286933899
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.652846097946167
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6227514743804932
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6115910410881042
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7177956700325012
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6850781440734863
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6976748108863831
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6659576892852783
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7305632829666138
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6654222011566162
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7059676051139832
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6874393224716187
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.71407151222229
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5922420024871826
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5118762850761414
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6690186262130737
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7186106443405151
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6812277436256409
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8369096517562866
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7962469458580017
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8611173033714294
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8191073536872864
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8009284138679504
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7042139172554016
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7444116473197937
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:52",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7329251170158386
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5498080253601074
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6496676206588745
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5382624268531799
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6337630152702332
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5502924919128418
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5403717160224915
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6612937450408936
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6932275295257568
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:56",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6660947203636169
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:56",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6495548486709595
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:56",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6304130554199219
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6394798159599304
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5845397710800171
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7521929740905762
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7420750856399536
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7313902974128723
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6410309076309204
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6241065859794617
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:53:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7444208860397339
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7569786906242371
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7072315812110901
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.732210636138916
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7050970196723938
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7957522869110107
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7704616189002991
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6294276118278503
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.688764214515686
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7070469260215759
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6440345644950867
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.702018678188324
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.671474814414978
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7005653381347656
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7199505567550659
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6145845651626587
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6990433931350708
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6770254373550415
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7009773254394531
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.674460768699646
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7358958125114441
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:06",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7323402166366577
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5706186890602112
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5412107110023499
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5499769449234009
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.52577805519104
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5800201296806335
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5812460780143738
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6174049377441406
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7577857375144958
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.582629382610321
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.728496253490448
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6342131495475769
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7026956081390381
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7684639692306519
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7375974059104919
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7079448699951172
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7912023067474365
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.57819002866745
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7953416705131531
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7009975910186768
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7493581175804138
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.59682697057724
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6442173719406128
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7104241847991943
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6433398723602295
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:16",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6910789608955383
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:16",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6515181064605713
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:16",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7062522768974304
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:16",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6262966990470886
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:17",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7035924196243286
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:18",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5814264416694641
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6542266607284546
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6590976119041443
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.595622181892395
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5360089540481567
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7616209983825684
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:21",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6506358981132507
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5651556253433228
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6340726017951965
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5143228769302368
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5003353953361511
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7904908061027527
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5594095587730408
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5047076344490051
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6723335385322571
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5965443849563599
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5292589068412781
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7214957475662231
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5605481266975403
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6918956637382507
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7606421709060669
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7683676481246948
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6806561946868896
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6901664137840271
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6714668273925781
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6322424411773682
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5407951474189758
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5050120949745178
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6926752924919128
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6877683997154236
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6902342438697815
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7740672826766968
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.753770112991333
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7759616374969482
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5838732719421387
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.8774072527885437
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5762231945991516
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.8581097722053528
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.504524290561676
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.728425145149231
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6203595399856567
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.573436439037323
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5585704445838928
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5068661570549011
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.709429144859314
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.676222026348114
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6980267763137817
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6045724153518677
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6521371006965637
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5420146584510803
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7043454647064209
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5609285831451416
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6204559803009033
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5356439352035522
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5234243869781494
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6486135125160217
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5436128377914429
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6027382016181946
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5975871682167053
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6164258718490601
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7234784364700317
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7151524424552917
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5281121134757996
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7348328232765198
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7207085490226746
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6513282060623169
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5408690571784973
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6547121405601501
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7036252021789551
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.753730833530426
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6667360663414001
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6180564165115356
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5998357534408569
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7744945883750916
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6719985008239746
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:52",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7112168669700623
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:52",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5370021462440491
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:52",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6424145102500916
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6735710501670837
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6249933242797852
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.603412926197052
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.671783447265625
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5788280367851257
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7172434329986572
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6711656451225281
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:56",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.588474452495575
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:56",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5578885078430176
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5803013443946838
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6544013619422913
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5961351990699768
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6614992022514343
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6069362759590149
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6431607007980347
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6946970224380493
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:54:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7290318012237549
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5113911628723145
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6615038514137268
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6940882802009583
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5243293046951294
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6029969453811646
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6502391695976257
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5746129751205444
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6071781516075134
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6970301270484924
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7208348512649536
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6537370681762695
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6708637475967407
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6095100045204163
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:06",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7883532643318176
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:06",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5311830639839172
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:06",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.734667181968689
+    }
+  },
+  {
+    "timestamp": "2025-05-11 21:55:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.623559296131134
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:03",
+    "filename": "bear.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 96.2
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:13",
+    "filename": "bearvid.mp4",
+    "type": "video",
+    "prediction": {
+      "status": "video processing started"
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.9330615997314453
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8871297836303711
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8815363049507141
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:27",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.9058471918106079
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:27",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8872851729393005
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:27",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8451762795448303
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.9209755063056946
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8777425289154053
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8399084806442261
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.9177298545837402
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8852816224098206
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8752634525299072
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8736110329627991
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.8252745270729065
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7205276489257812
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5686325430870056
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8606099486351013
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:35",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.7906079292297363
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:35",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7169188857078552
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9655665159225464
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6110426783561707
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5688731074333191
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9535613656044006
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8464165925979614
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5626720190048218
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9671576619148254
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8593083620071411
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6606614589691162
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8969163298606873
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8541182279586792
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.7752490639686584
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.895736575126648
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.7463667988777161
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6499531865119934
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9494395852088928
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5636298656463623
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9481463432312012
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:37:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7677578330039978
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:01",
+    "filename": "0abe5e4f09bc1262_jpg.rf.9375b651ed640b08de1574cef5a2a373.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 90.9
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7435576915740967
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6569452881813049
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7894936203956604
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7838840484619141
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6523696184158325
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8030996322631836
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8233251571655273
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7556588053703308
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7945005297660828
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5646091103553772
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8324844837188721
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6788537502288818
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7454296350479126
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6342387795448303
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7597370743751526
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7441281080245972
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5922559499740601
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8078871965408325
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.709270179271698
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7679401636123657
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7425059676170349
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.740581750869751
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7193760275840759
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7996621131896973
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7772103548049927
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.674706220626831
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7448587417602539
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5772954225540161
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7565748691558838
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6443619728088379
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5325251817703247
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8757674098014832
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6480776071548462
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6251091957092285
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:16",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8110445737838745
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:16",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6475531458854675
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:16",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8205004334449768
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:16",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.641960859298706
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:17",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8160647749900818
+    }
+  },
+  {
+    "timestamp": "2025-05-11 23:38:17",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7864167094230652
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:18",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8776054382324219
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:18",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8622053265571594
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.887313723564148
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8471922874450684
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9124096035957336
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8758090734481812
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6896217465400696
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9371126294136047
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9225196838378906
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7127209305763245
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9353540539741516
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8791483640670776
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5712339878082275
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:27",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9482451677322388
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:27",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9443539977073669
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7659279704093933
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.723727822303772
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.63975989818573
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.585532546043396
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5727679133415222
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7411212921142578
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6806909441947937
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5887312293052673
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5113319754600525
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6722898483276367
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:01:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5110950469970703
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9606227874755859
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9302720427513123
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.823256254196167
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9600606560707092
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9227988719940186
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8102507591247559
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9657899141311646
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9524261951446533
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7842047810554504
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.953627347946167
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9327389001846313
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8728333711624146
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8060424327850342
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5754619836807251
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9264513850212097
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.926365077495575
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7945746779441833
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7911243438720703
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9624601006507874
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6636977195739746
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5454822778701782
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9764395952224731
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9103606343269348
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8220775723457336
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8201603293418884
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9629230499267578
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.933024525642395
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8425552248954773
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5565046668052673
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "hot dog",
+      "confidence": 0.5213363766670227
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9577479958534241
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9250850081443787
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8611837029457092
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "hot dog",
+      "confidence": 0.6703904867172241
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6245585083961487
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9623333811759949
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9286226630210876
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8096749186515808
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5863337516784668
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9741044044494629
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9214028120040894
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7414766550064087
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9599739909172058
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9592021107673645
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9631186127662659
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9550345540046692
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9652692675590515
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9553236365318298
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7438569664955139
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9685331583023071
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:02:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9582501649856567
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9680972099304199
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9588767886161804
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9654171466827393
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9598766565322876
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9533025026321411
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9526317119598389
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:06",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9673351049423218
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:06",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9628661274909973
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9720786213874817
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9573033452033997
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9641081690788269
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9481399059295654
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5343483090400696
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9662558436393738
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9558238387107849
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8820229172706604
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9655019044876099
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9517174363136292
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8908604979515076
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9563848972320557
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9446912407875061
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8857911825180054
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:17",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9631751179695129
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:17",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9514093995094299
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:17",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8578059673309326
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:18",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9582308530807495
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9534331560134888
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7483811974525452
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9653156995773315
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9517902135848999
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8506848216056824
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "laptop",
+      "confidence": 0.7103904485702515
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9655821323394775
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9540697932243347
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8694742918014526
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8662673234939575
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9647953510284424
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9601014256477356
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9192075133323669
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8746225237846375
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.811202347278595
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9685994386672974
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9550185799598694
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8286869525909424
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7376487255096436
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6715654730796814
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9646326899528503
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9578905701637268
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8627697229385376
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7930298447608948
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7277724742889404
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9624449014663696
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9579413533210754
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7966259121894836
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.75328129529953
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "laptop",
+      "confidence": 0.5172132849693298
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9654873609542847
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9504665732383728
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.6428354382514954
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9197930097579956
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9134753942489624
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6374226212501526
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:35",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9438403844833374
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9376108050346375
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7573650479316711
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9474743008613586
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8690060377120972
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8233481645584106
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7730526924133301
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9435980319976807
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9371923208236694
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9677066802978516
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9587186574935913
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7102020382881165
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5265061855316162
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9673563838005066
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9576951861381531
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9541845917701721
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7869746088981628
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9575661420822144
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9457338452339172
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9451082348823547
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.82737135887146
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.648452639579773
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9587541818618774
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9495550990104675
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9334920644760132
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7794491648674011
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6754412651062012
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9680726528167725
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.963070273399353
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9549999833106995
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9617410898208618
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9507343769073486
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:03:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9500636458396912
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9178909063339233
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:02",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.772531270980835
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9131472706794739
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8585246205329895
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5409608483314514
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:35",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6955033540725708
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.804843544960022
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7941376566886902
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.544289767742157
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8051838278770447
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6839330196380615
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6049780249595642
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7021785974502563
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.825968325138092
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7702566385269165
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7379554510116577
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6927139759063721
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7694406509399414
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.846079409122467
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7632675170898438
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.776887834072113
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8417773246765137
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7490218877792358
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7689806818962097
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.792279839515686
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6759703755378723
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7675682902336121
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7588505148887634
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7706417441368103
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8329468965530396
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8161548972129822
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.692888617515564
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7849262952804565
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.62762451171875
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6257277131080627
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6493539810180664
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6627464294433594
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7170000672340393
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6967503428459167
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7213492393493652
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7947368621826172
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6675988435745239
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7257168889045715
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7527447938919067
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6757638454437256
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8182741403579712
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:52",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8023312091827393
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:52",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7412207126617432
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:52",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7709767818450928
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7619359493255615
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5652479529380798
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6369295716285706
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7357657551765442
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6813796758651733
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5931121110916138
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6033955812454224
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5330944061279297
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5120830535888672
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5132270455360413
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.704962968826294
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:05:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7425848841667175
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7105653285980225
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7377469539642334
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:00",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7272400856018066
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.692845344543457
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.595192551612854
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5405500531196594
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6441404819488525
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.768545925617218
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7157666683197021
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7008693218231201
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7438036799430847
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7271019220352173
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.717151939868927
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5645021200180054
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7249884009361267
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:06:06",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7185249924659729
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:20:57",
+    "filename": "bear.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 96.2
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:05",
+    "filename": "bearvid.mp4",
+    "type": "video",
+    "prediction": {
+      "status": "video processing started"
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:17",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9339280724525452
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:17",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9269165992736816
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9357046484947205
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:19",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.92641681432724
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9461233615875244
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9266541600227356
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9286816716194153
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9171355962753296
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8852447271347046
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9086557626724243
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8951338529586792
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.6361963152885437
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9469748139381409
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8992359638214111
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.5002210140228271
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9226546287536621
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.6113891005516052
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.8999334573745728
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8831572532653809
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6724675893783569
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:35",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6536303758621216
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:35",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7657405138015747
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7804450988769531
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5696749091148376
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.794933557510376
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5871400833129883
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7958068251609802
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6384876370429993
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7521518468856812
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7406593561172485
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7870760560035706
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.8311257362365723
+    }
+  },
+  {
+    "timestamp": "2025-05-12 10:21:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7682387828826904
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9173817038536072
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9123935103416443
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8758100271224976
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7572804689407349
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5778535604476929
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9172274470329285
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9142946600914001
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8722663521766663
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7700661420822144
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5217844247817993
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8979136943817139
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8675853610038757
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8612229824066162
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7686569094657898
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7047382593154907
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8994796872138977
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8393447399139404
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6520058512687683
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8814859986305237
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7145465612411499
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9528387784957886
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6493891477584839
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9639478921890259
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9260117411613464
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9636237621307373
+    }
+  },
+  {
+    "timestamp": "2025-05-12 11:43:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9261115193367004
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:03:30",
+    "filename": "bearvid.mp4",
+    "type": "video",
+    "prediction": {
+      "status": "video processing started"
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:04:27",
+    "filename": "bear.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 96.2
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:05:23",
+    "filename": "0abe5e4f09bc1262_jpg.rf.9375b651ed640b08de1574cef5a2a373.jpg",
+    "type": "image",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 90.9
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:04",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5869911909103394
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5971554517745972
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:08",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6346278190612793
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6670728921890259
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8791601061820984
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7173908352851868
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.5896968245506287
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6415396332740784
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:10",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5392642617225647
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.8946183323860168
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7198321223258972
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.8796250224113464
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6905394196510315
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.8796013593673706
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7724892497062683
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.814365565776825
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7975983023643494
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.8020261526107788
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7442178726196289
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.823269784450531
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6446123719215393
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6153607964515686
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:13",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8276075124740601
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.6997261643409729
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5624962449073792
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.829423189163208
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.7143770456314087
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6190884709358215
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Tiger",
+      "confidence": 0.8177127838134766
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.8001952767372131
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7901021242141724
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:15",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.6782205700874329
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:16",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.7728725671768188
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:16",
+    "type": "webcam",
+    "prediction": {
+      "animal": "Lion",
+      "confidence": 0.5703794956207275
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9585891366004944
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8764982223510742
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8610164523124695
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.850189745426178
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9587404727935791
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9026871919631958
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8598485589027405
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:22",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8550882339477539
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.954404890537262
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9215077757835388
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8229545950889587
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "laptop",
+      "confidence": 0.8196874260902405
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:24",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6839544177055359
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9478992819786072
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9151156544685364
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7889124155044556
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:26",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6821119785308838
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:27",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9547772407531738
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9502272605895996
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.886420726776123
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:28",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.855779230594635
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9426945447921753
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9222966432571411
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8963230848312378
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8595653176307678
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:30",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.5006232857704163
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9600423574447632
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9238652586936951
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.840794563293457
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:32",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7705522775650024
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9629053473472595
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8843728303909302
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8651041388511658
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7392240166664124
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:35",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9248914122581482
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:35",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.760495126247406
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7234876751899719
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6213067770004272
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8697481751441956
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.8681941032409668
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:37",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.8651683926582336
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8237420916557312
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9434776306152344
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9219077229499817
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:39",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8856968283653259
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8045003414154053
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9554720520973206
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.948526918888092
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:41",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9428494572639465
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7766832709312439
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:42",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.751861035823822
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9414573311805725
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:43",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9009970426559448
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8558192253112793
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8102898001670837
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:44",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5946465134620667
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.955978274345398
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:45",
+    "type": "webcam",
+    "prediction": {
+      "animal": "bear",
+      "confidence": 0.9397916197776794
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8456331491470337
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:46",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7590237259864807
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9017276167869568
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:47",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9000929594039917
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8493110537528992
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8367811441421509
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:48",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8155928254127502
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:49",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9550881385803223
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9247292280197144
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:50",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8483180403709412
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9592632055282593
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:51",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9189996123313904
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:52",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8453559875488281
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9613258242607117
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9295581579208374
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7725489139556885
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:53",
+    "type": "webcam",
+    "prediction": {
+      "animal": "dog",
+      "confidence": 0.6782090067863464
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:54",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5212529301643372
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "cell phone",
+      "confidence": 0.9590455889701843
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9314532279968262
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:55",
+    "type": "webcam",
+    "prediction": {
+      "animal": "dog",
+      "confidence": 0.7886243462562561
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:56",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6658812165260315
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9365416169166565
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9264432191848755
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:57",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8083298802375793
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:58",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7565200328826904
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9445370435714722
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9394364953041077
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8397249579429626
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:06:59",
+    "type": "webcam",
+    "prediction": {
+      "animal": "laptop",
+      "confidence": 0.6585783958435059
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9400330781936646
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.893554151058197
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8214990496635437
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:01",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7878873348236084
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9021552801132202
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8794782757759094
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8017130494117737
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:03",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.5892158150672913
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9440242648124695
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9260585904121399
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.833937406539917
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:05",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7782674431800842
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9421122670173645
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9320107102394104
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8541503548622131
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:07",
+    "type": "webcam",
+    "prediction": {
+      "animal": "chair",
+      "confidence": 0.7195735573768616
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9590895771980286
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9103160500526428
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:09",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6613571643829346
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9234424233436584
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8136774897575378
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.777532160282135
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:11",
+    "type": "webcam",
+    "prediction": {
+      "animal": "laptop",
+      "confidence": 0.5565661787986755
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9407658576965332
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9227365255355835
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:12",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.7138087749481201
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9565416574478149
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9313375949859619
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:14",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5818226933479309
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:16",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9530476331710815
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:16",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9291380047798157
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:18",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9509879946708679
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:18",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9275771379470825
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:18",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8781235218048096
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:18",
+    "type": "webcam",
+    "prediction": {
+      "animal": "laptop",
+      "confidence": 0.5712745189666748
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9609785079956055
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9278067350387573
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:20",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8108717203140259
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:21",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.949462890625
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:21",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.933793842792511
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9396842122077942
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9369247555732727
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "laptop",
+      "confidence": 0.6799255013465881
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:23",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5382418632507324
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9258688688278198
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9240612983703613
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:25",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.6138108372688293
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:27",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9474697113037109
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:27",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9361344575881958
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9453832507133484
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9354437589645386
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:29",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5188980102539062
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9181230068206787
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9131828546524048
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:31",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.5517064929008484
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9452170729637146
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9352246522903442
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:33",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8176933526992798
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:34",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.936647355556488
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:35",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9289286136627197
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:35",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.719623327255249
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9442464709281921
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9359958171844482
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:36",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9020393490791321
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9464043974876404
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:38",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9359096884727478
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9477747082710266
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.9356853365898132
+    }
+  },
+  {
+    "timestamp": "2025-05-14 10:07:40",
+    "type": "webcam",
+    "prediction": {
+      "animal": "person",
+      "confidence": 0.8247087001800537
+    }
+  }
+]
